@@ -1,0 +1,163 @@
+nav{
+    text-align: center;
+    background-color: black;
+}
+span{
+    background-color: tomato;
+    color: white;
+    border-style: solid;
+    border-radius: 5%;
+    border-color: tomato;
+    margin: 10px;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    color: maroon;
+    font-size: 250%;
+    display: block;
+}
+
+h2{
+    text-align:center;
+    background-color: indianred;
+    color: black;
+    font-size: 200%;
+    display: block;
+}
+
+h3{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 150%;
+    display: block;
+}
+
+h4{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 14px;
+    display: block;
+    font-style: normal;
+    background-color: #FFFFFF;
+    text-transform: none;
+
+}
+
+body{
+    background-color: tomato;
+}
+
+figcaption{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;  
+    font-variant: small-caps;
+    line-height: 18px;
+    color: black;
+    font-size: 125%;
+}
+
+p{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 18px;
+    color: black;
+    font-size: 125%;
+    display: block;
+
+}
+
+footer{
+    text-align: center;
+}
+
+#picture{
+    text-align: center;
+    float: none;
+
+}
+
+#progress_bar{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 18px;
+    color: black;
+    font-size: 125%;
+    float: none;
+    
+}
+#education_table{
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 125%;
+    float: none;
+}
+#fav_book{
+    text-align: center;
+    float: none;
+}
+#fav_song{
+    text-align: center;
+    float: none;
+}
+#fav_movie{
+    text-align: center;
+    float: none;
+}
+#blog{
+    text-align: center;
+    float: none;
+}
+#addComment{
+    display:block;
+    border-radius: 10px;
+    border: 2px double #000000;
+    color: #000000;
+    background-color: ghostwhite;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#inputComment{
+    display:none;
+}
+#postComment{
+    display:none;
+    border-radius: 10px;
+    border: 2px double #000000;
+    color: #000000;
+    background-color: ghostwhite;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: right;
+
+
+}
+
+.footer{
+    text-align: center;
+    float: none;
+}
+.links{
+    text-align: center;
+    float: none;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color:purple;
+}
+
+blockquote:hover{
+    font-size: 200%;
+}
