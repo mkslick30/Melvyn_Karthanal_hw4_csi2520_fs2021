@@ -1,3 +1,4 @@
+// File was not linking properly on my computer, so I added an internal version of the script on the blog page.
 function showCommentBox() {
     document.querySelector('#inputComment').style = 'display: block';
     document.querySelector('#postComment').style.display = 'block';
